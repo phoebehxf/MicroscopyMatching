@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project outputs
+outputs/
+solver_cache/
+tracked_results/
+*.mp4
+*.gif
+
+# Model weights (downloaded from HuggingFace Hub at runtime)
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Misc
+*.log
+.env
