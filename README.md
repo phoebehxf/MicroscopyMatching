@@ -8,6 +8,8 @@ A unified framework for microscopy image analysis, built on a pre-trained Latent
 
 Model weights are automatically downloaded from [HuggingFace Hub](https://huggingface.co/phoebe777777/111) on first use.
 
+You can also try the [online demo](https://huggingface.co/spaces/VisionLanguageGroup/MicroscopyMatching) for an interactive experience. 
+
 ## Installation
 
 ```bash
