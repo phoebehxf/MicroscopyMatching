@@ -39,3 +39,4 @@ tracked_results/
 # Misc
 *.log
 .env
+heterogeneous_microscopy_image_data/

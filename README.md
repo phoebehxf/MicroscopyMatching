@@ -143,3 +143,11 @@ If you use MicroscopyMatching in your research, please cite:
 ## License
 
 TBD -->
+
+## Collection of Image Data from Diverse, Real-world Experiments
+
+The heterogeneous microscopy image dataset (200 images with segmentation, counting, and tracking annotations) is available for download:
+
+[Download from Google Drive](https://drive.google.com/file/d/1JIwFiCobBjxIfLcA1u1h653NHlX4NPeG/view?usp=sharing)
+
+See `heterogeneous_microscopy_image_data/readme.txt` for details on the dataset structure and annotation formats.
